@@ -1,4 +1,4 @@
-# VICE API Interview Challenge
+# API Challenge
 
 ## Intermediate
 
